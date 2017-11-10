@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+alt+v"], "command": "markdown_paste_image"}
+]

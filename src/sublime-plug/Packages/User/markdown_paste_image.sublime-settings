@@ -1,0 +1,29 @@
+{
+  "default_desc":"图片",
+  // [proj]_[Syntax_name]_tag: [Tag] -> Set new syntax  {src} -> 图片路径  {desc} -> 图片描述
+  "default_tag": "![{desc}]({src})",
+  // windows tools  （用户需修改路径）
+  "default_clip":"C:\\Clipboard2img.exe",
+  //使用current_proj来切换不同的项目配置
+  "current_proj":"p1",
+
+/////////////////// p1 >>>>
+  // 图片保存的路径 （用户需修改路径）
+  "p1_img_dir":"C:\\GitLab\\platform-docs\\img",
+  // 图片所属项目的根目录路径   （用户需修改路径）
+  "p1_root_dir":"C:\\GitLab\\platform-docs",
+  // [proj]_[Syntax_name]_tag: [Tag] -> Set new syntax  {src} -> 图片路径  {desc} -> 图片描述
+  "p1_Markdown_tag":"![{desc}](http://platform-docs.xxxx.com/{src})",
+/////////////////// <<<<< p1 
+
+// /////////////////// p2 >>>>
+//   // 图片保存的路径 （用户需修改路径）
+//   "p2_img_dir":"C:\\GitLab\\platform-docs\\img",
+//   // 图片所属项目的根目录路径   （用户需修改路径）
+//   "p2_root_dir":"C:\\GitLab\\platform-docs",
+//   // [proj]_[Syntax_name]_tag: [Tag] -> Set new syntax  {src} -> 图片路径  {desc} -> 图片描述
+//   "p2_Markdown_tag":"![{desc}](http://platform-docs.xxxx.com/{src})",
+// /////////////////// <<<<< p2
+
+  "end":"end"
+}

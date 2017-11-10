@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "保存剪粘板中的图片到指定目录，并生成markdown语法",
+    "command": "markdown_paste_image"
+  }
+]
