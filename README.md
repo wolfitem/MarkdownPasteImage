@@ -2,6 +2,10 @@
 - 一个sublime text 3 的插件
 - 支持直接将粘贴板中的图片，生成图片文件，并输出markdown语法的图片链接
 
+查看演示视频：
+
+http://v.youku.com/v_show/id_XMzE0ODExMjM4OA==.html
+
 ## 安装
 
 #### Windows:
